@@ -5,14 +5,16 @@ img {
 .cabecalho {
     width: 1400px;
     height: 100px;
-    background-color: pink;
+    background-color:violet;
 }
 
 .primeirasecao {
     displyay flex;
+    justify-content: space-between;
+    align-items: center;
     width: 1000px;
     height: 500px;
-    background-color: blue,{43,186,225};
+    background-color: red
 }
 .divisao
 width:200px
