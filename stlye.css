@@ -9,12 +9,13 @@ img {
 }
 
 .primeirasecao {
+    displyay flex;
     width: 1000px;
     height: 500px;
-    background-color: blue;
+    background-color: blue,{43,186,225};
 }
 .divisao
-
+width:200px
     height:200px;
     background-color: purple ;
 }
