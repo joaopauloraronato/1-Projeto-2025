@@ -1,9 +1,15 @@
-img{
-width: 100px; 
+img {
+    width: 100px;
 }
 
-.cabecalho{
+.cabecalho {
     width: 1400px;
     height: 100px;
-    background-color: pink ;
+    background-color: pink;
+}
+
+.primeirasecao {
+    width: 1000px;
+    height: 500px;
+    background-color: pink;
 }
